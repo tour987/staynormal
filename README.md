@@ -1,6 +1,3 @@
 # staynormal
 
-I am a beginner.
-
-
-I want to use this repository to save my codings and record my beginning with github.
+This repository is the process which I start with Github.
